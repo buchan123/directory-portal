@@ -1,4 +1,4 @@
-export const url = "https://teledirectory-api.herokuapp.com/api";
+export const url = process.env.URL;
 
 export const setHeaders = () => {
   const headers = {
