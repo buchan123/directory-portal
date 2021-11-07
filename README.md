@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployed At:- https://quizzical-stonebraker-d0b9a5.netlify.app/
 
 ### Deploying on Netlify:
 1. Login to Netlify account.
@@ -7,7 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. Upload the code to a github repository.
 4. In the netlify dashboard, click on "New site from Git".
 5. Connect the github account, and select the repository containing the code.
-6. 
+6. Netlify will automatically build and deploy the project.
+
 ## Available Scripts
 
 In the project directory, you can run:
