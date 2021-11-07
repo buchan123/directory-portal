@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### Deploying on Netlify:
+1. Login to Netlify account.
+2. Edit "url" in "src/api/index.js" for using API endpoint of your backend.
+3. Upload the code to a github repository.
+4. In the netlify dashboard, click on "New site from Git".
+5. Connect the github account, and select the repository containing the code.
+6. 
 ## Available Scripts
 
 In the project directory, you can run:
