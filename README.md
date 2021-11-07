@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Deployed At:- https://quizzical-stonebraker-d0b9a5.netlify.app/
 
+Test Credentials:-
+Username:- buchan
+Password:- buchan123
+
 ### Deploying on Netlify:
 1. Login to Netlify account.
 2. Edit "url" in "src/api/index.js" for using API endpoint of your backend.
